@@ -1,0 +1,60 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "artist": "Rahman Ertürk",
+      "title": "Yalnizligin Ezgisi",
+      "year": 2018
+    },
+    {
+      "id": 2,
+      "artist": "Rahman Ertürk",
+      "title": "Arasam Diyar Diyar",
+      "year": 2017
+    },
+    {
+      "id": 3,
+      "artist": "Rahman Ertürk",
+      "title": "Yorgun Kale",
+      "year": 2022
+    },
+    {
+      "id": 4,
+      "artist": "Rahman Ertürk",
+      "title": "Aksam, Yine Aksam",
+      "year": 2018
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Resul Ertürk",
+      "favoriteRecords": [
+        "Arasam Diyar Diyar",
+        "Yorgun Kale"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hashüs",
+      "favoriteRecords": [
+        "Yalnizligin Ezgisi",
+        "Yorgun Kale"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bedo",
+      "favoriteRecords": [
+        "Aksam, Yine Aksam"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mercan",
+      "favoriteRecords": [
+        "Yalnizligin Ezgisi"
+      ]
+    }
+  ]
+}
